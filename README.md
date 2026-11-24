@@ -15,7 +15,7 @@ The aim is to understand cloud storage security and implement security controls 
 - Test access permissions.
 
 TOOL USED 
-- AWS MANAGEMENT CONSOLE
-- CHROME FOR PUBLIC TESTING
-- AMAZON S3
-- GIT HUB 
+- AWS Management Console 
+- Chrome for public testing 
+- Amazon S3
+- Git hub
